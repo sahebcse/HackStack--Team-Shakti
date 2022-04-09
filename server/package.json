@@ -1,0 +1,20 @@
+{
+  "name": "hillyhealthcare",
+  "version": "1.0.0",
+  "description": "Backend server for SIH prototype acccessible healthcare application",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "hillyhealth",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.1"
+  }
+}
