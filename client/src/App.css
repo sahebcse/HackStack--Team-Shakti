@@ -1,0 +1,151 @@
+.custom-shape-divider-bottom-1647178720 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1647178720 svg {
+  position: relative;
+  display: block;
+  width: calc(155% + 1.3px);
+  height: 62px;
+}
+
+.custom-shape-divider-bottom-1647178720 .shape-fill {
+  fill: #ffffff;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.settings {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.settingsWrapper {
+  max-width: 660px;
+  margin: 120px auto;
+  padding: 50px;
+  border: 1px solid gray;
+  border-radius: 15px;
+}
+
+.settingsTitle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.settingsUpdateTitle {
+  font-size: 30px;
+  margin-bottom: 20px;
+  color: lightcoral;
+}
+
+.settingsDeleteTitle {
+  color: red;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.settingsForm {
+  display: flex;
+  flex-direction: column;
+}
+
+.settingsPP {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.settingsPP > img {
+  width: 70px;
+  height: 70px;border-radius: 50%;
+  object-fit: cover;
+}
+
+.settingsPPIcon {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: lightcoral;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.settingsForm > label {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.settingsForm > input {
+  color: gray;
+  margin: 10px 0;
+  height: 30px;
+  border: none;
+  border-bottom: 1px solid lightgray;
+}
+
+.settingsSubmit {
+  width: 150px;
+  align-self: center;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  background-color: teal;
+  padding: 10px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+@media screen and (max-width:768px) {
+  .settingsWrapper{
+    max-width: 100%;
+    width: 100%;
+  }
+  
+}
