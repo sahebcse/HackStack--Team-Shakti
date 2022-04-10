@@ -1,0 +1,1 @@
+<Pin onClick={() => setPopupInfo(city)} />
