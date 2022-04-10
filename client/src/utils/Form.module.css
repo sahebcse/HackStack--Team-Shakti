@@ -1,0 +1,59 @@
+.container {
+  width: 400px;
+  background: rgba(128, 128, 128, 0.2);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0px;
+  border-radius: 4px;
+}
+
+.head {
+  font-size: 1.3rem;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.email {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+}
+
+.email input {
+  border-radius: 4px;
+  padding: 3px;
+  padding-left: 8px;
+}
+
+.btn {
+  background: lightblue;
+  padding: 5px 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.googl {
+  background: rgb(2, 79, 105);
+  padding: 5px 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.googl img {
+  width: 25px;
+  height: 25px;
+  margin-right: 5px;
+}
+
+.lk {
+  text-decoration: underline;
+  margin-top: 5px;
+  color: blue;
+}
