@@ -1,0 +1,5016 @@
+{
+    "meta": {
+      "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+      "terms": "https://open.fda.gov/terms/",
+      "license": "https://open.fda.gov/license/",
+      "last_updated": "2022-03-10",
+      "results": {
+        "skip": 0,
+        "limit": 50,
+        "total": 25458
+      }
+    },
+    "results": [
+      {
+        "submissions": [
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "8",
+            "submission_status": "AP",
+            "submission_status_date": "20130830",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "14",
+            "submission_status": "AP",
+            "submission_status_date": "20141219",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "12",
+            "submission_status": "AP",
+            "submission_status_date": "20141219",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20061122",
+            "application_docs": [
+              {
+                "id": "8976",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/076876s000ltr.pdf",
+                "date": "20061201",
+                "type": "Letter"
+              },
+              {
+                "id": "22593",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/076876s000LTR.pdf",
+                "date": "20070509",
+                "type": "Review"
+              }
+            ]
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "7",
+            "submission_status": "AP",
+            "submission_status_date": "20120210",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          }
+        ],
+        "application_number": "ANDA076876",
+        "sponsor_name": "TEVA",
+        "products": [
+          {
+            "id":0,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "ONDANSETRON HYDROCHLORIDE",
+            "active_ingredients": [
+              {
+                "name": "ONDANSETRON HYDROCHLORIDE",
+                "strength": "EQ 2MG BASE/ML"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "INJECTABLE",
+            "route": "INJECTION",
+            "marketing_status": "Prescription",
+            "te_code": "AP"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "7",
+            "submission_status": "AP",
+            "submission_status_date": "20120210",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "5",
+            "submission_status": "AP",
+            "submission_status_date": "20100322",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "4",
+            "submission_status": "AP",
+            "submission_status_date": "20100129",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20041203",
+            "application_docs": [
+              {
+                "id": "9014",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/77167ltr.pdf",
+                "date": "20041206",
+                "type": "Letter"
+              }
+            ]
+          }
+        ],
+        "application_number": "ANDA077167",
+        "sponsor_name": "BARR",
+        "products": [
+          {
+            "id":1,
+            "product_number": "002",
+            "reference_drug": "No",
+            "brand_name": "DIDANOSINE",
+            "active_ingredients": [
+              {
+                "name": "DIDANOSINE",
+                "strength": "250MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "CAPSULE, DELAYED REL PELLETS",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          },
+          {
+            "id":2,
+            "product_number": "003",
+            "reference_drug": "No",
+            "brand_name": "DIDANOSINE",
+            "active_ingredients": [
+              {
+                "name": "DIDANOSINE",
+                "strength": "400MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "CAPSULE, DELAYED REL PELLETS",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          },
+          {
+            "id":3,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "DIDANOSINE",
+            "active_ingredients": [
+              {
+                "name": "DIDANOSINE",
+                "strength": "200MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "CAPSULE, DELAYED REL PELLETS",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "TA",
+            "submission_status_date": "20061101",
+            "application_docs": [
+              {
+                "id": "31244",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/077472s000TAltr.pdf",
+                "date": "20061106",
+                "type": "Letter"
+              }
+            ]
+          }
+        ],
+        "application_number": "ANDA077472",
+        "sponsor_name": "RANBAXY LABS LTD",
+        "products": [
+          {
+            "id":4,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "CETIRIZINE HYDROCHLORIDE",
+            "active_ingredients": [
+              {
+                "name": "CETIRIZINE HYDROCHLORIDE",
+                "strength": "5MG/5ML"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "SYRUP",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "22",
+            "submission_status": "AP",
+            "submission_status_date": "20071207",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "8",
+            "submission_status": "AP",
+            "submission_status_date": "19810805",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "14",
+            "submission_status": "AP",
+            "submission_status_date": "19870618",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "20",
+            "submission_status": "AP",
+            "submission_status_date": "19920623",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "6",
+            "submission_status": "AP",
+            "submission_status_date": "19780518",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "12",
+            "submission_status": "AP",
+            "submission_status_date": "19850520",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "4",
+            "submission_status": "AP",
+            "submission_status_date": "19770809",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "10",
+            "submission_status": "AP",
+            "submission_status_date": "19840806",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "2",
+            "submission_status": "AP",
+            "submission_status_date": "19760629",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "27",
+            "submission_status": "AP",
+            "submission_status_date": "20010228",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "19",
+            "submission_status": "AP",
+            "submission_status_date": "19911025",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "25",
+            "submission_status": "AP",
+            "submission_status_date": "20000907",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "17",
+            "submission_status": "AP",
+            "submission_status_date": "19890406",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "23",
+            "submission_status": "AP",
+            "submission_status_date": "19980518",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "9",
+            "submission_status": "AP",
+            "submission_status_date": "19840703",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "15",
+            "submission_status": "AP",
+            "submission_status_date": "19891027",
+            "submission_class_code": "EFFICACY",
+            "submission_class_code_description": "Efficacy"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "21",
+            "submission_status": "AP",
+            "submission_status_date": "20071207",
+            "review_priority": "UNKNOWN",
+            "submission_class_code": "EFFICACY",
+            "submission_class_code_description": "Efficacy"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "7",
+            "submission_status": "AP",
+            "submission_status_date": "19800409",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "13",
+            "submission_status": "AP",
+            "submission_status_date": "19860520",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "5",
+            "submission_status": "AP",
+            "submission_status_date": "19770913",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19750203",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "TYPE 1",
+            "submission_class_code_description": "Type 1 - New Molecular Entity"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "11",
+            "submission_status": "AP",
+            "submission_status_date": "19840703",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "3",
+            "submission_status": "AP",
+            "submission_status_date": "19770413",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19750422",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "26",
+            "submission_status": "AP",
+            "submission_status_date": "20010308",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "18",
+            "submission_status": "AP",
+            "submission_status_date": "20071207",
+            "submission_class_code": "EFFICACY",
+            "submission_class_code_description": "Efficacy"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "24",
+            "submission_status": "AP",
+            "submission_status_date": "19980528",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          }
+        ],
+        "application_number": "NDA017613",
+        "sponsor_name": "SCHERING PLOUGH",
+        "products": [
+          {
+            "id":6,
+            "product_number": "001",
+            "reference_drug": "Yes",
+            "brand_name": "LOTRIMIN",
+            "active_ingredients": [
+              {
+                "name": "CLOTRIMAZOLE",
+                "strength": "1% **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "SOLUTION",
+            "route": "TOPICAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "2",
+            "submission_status": "AP",
+            "submission_status_date": "20100128",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "9",
+            "submission_status": "AP",
+            "submission_status_date": "20141117",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "7",
+            "submission_status": "AP",
+            "submission_status_date": "20141117",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "3",
+            "submission_status": "AP",
+            "submission_status_date": "20100813",
+            "submission_class_code": "REMS",
+            "submission_class_code_description": "REMS"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20090722",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "10",
+            "submission_status": "AP",
+            "submission_status_date": "20141117",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20090327",
+            "application_docs": [
+              {
+                "id": "44305",
+                "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm107834.htm",
+                "date": "20090414",
+                "type": "Other Important Information from FDA"
+              }
+            ]
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "8",
+            "submission_status": "AP",
+            "submission_status_date": "20141117",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "6",
+            "submission_status": "AP",
+            "submission_status_date": "20110617",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "4",
+            "submission_status": "AP",
+            "submission_status_date": "20101223",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          }
+        ],
+        "application_number": "ANDA076317",
+        "sponsor_name": "TEVA",
+        "products": [
+          {
+            "id":7,
+            "product_number": "004",
+            "reference_drug": "No",
+            "brand_name": "TOPIRAMATE",
+            "active_ingredients": [
+              {
+                "name": "TOPIRAMATE",
+                "strength": "200MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Prescription",
+            "te_code": "AB"
+          },
+          {
+            "id":8,
+            "product_number": "002",
+            "reference_drug": "No",
+            "brand_name": "TOPIRAMATE",
+            "active_ingredients": [
+              {
+                "name": "TOPIRAMATE",
+                "strength": "50MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Prescription",
+            "te_code": "AB"
+          },
+          {
+            "id":9,
+            "product_number": "003",
+            "reference_drug": "No",
+            "brand_name": "TOPIRAMATE",
+            "active_ingredients": [
+              {
+                "name": "TOPIRAMATE",
+                "strength": "100MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Prescription",
+            "te_code": "AB"
+          },
+          {
+            "id":10,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "TOPIRAMATE",
+            "active_ingredients": [
+              {
+                "name": "TOPIRAMATE",
+                "strength": "25MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Prescription",
+            "te_code": "AB"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20031209"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "7",
+            "submission_status": "AP",
+            "submission_status_date": "20200825",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "5",
+            "submission_status": "AP",
+            "submission_status_date": "20200825",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "3",
+            "submission_status": "AP",
+            "submission_status_date": "20090928",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          }
+        ],
+        "application_number": "ANDA076592",
+        "sponsor_name": "PADAGIS ISRAEL",
+        "openfda": {
+          "application_number": [
+            "ANDA076592"
+          ],
+          "brand_name": [
+            "BETAMETHASONE DIPROPIONATE"
+          ],
+          "generic_name": [
+            "BETAMETHASONE DIPROPIONATE"
+          ],
+          "manufacturer_name": [
+            "Padagis Israel Pharmaceuticals Ltd"
+          ],
+          "product_ndc": [
+            "45802-376"
+          ],
+          "product_type": [
+            "HUMAN PRESCRIPTION DRUG"
+          ],
+          "route": [
+            "TOPICAL"
+          ],
+          "substance_name": [
+            "BETAMETHASONE DIPROPIONATE"
+          ],
+          "rxcui": [
+            "848176"
+          ],
+          "spl_id": [
+            "7c95b6de-0d41-40b6-a7a3-3953facf094b"
+          ],
+          "spl_set_id": [
+            "7bd2646c-f34a-4824-8f66-c41e77db19d2"
+          ],
+          "package_ndc": [
+            "45802-376-35",
+            "45802-376-32"
+          ],
+          "unii": [
+            "826Y60901U"
+          ]
+        },
+        "products": [
+          {
+            "id":11,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "BETAMETHASONE DIPROPIONATE",
+            "active_ingredients": [
+              {
+                "name": "BETAMETHASONE DIPROPIONATE",
+                "strength": "EQ 0.05% BASE"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "CREAM, AUGMENTED",
+            "route": "TOPICAL",
+            "marketing_status": "Prescription",
+            "te_code": "AB"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "3",
+            "submission_status": "AP",
+            "submission_status_date": "19851127",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "13",
+            "submission_status": "AP",
+            "submission_status_date": "19910531",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19830902",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "11",
+            "submission_status": "AP",
+            "submission_status_date": "19890207",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "8",
+            "submission_status": "AP",
+            "submission_status_date": "19880720",
+            "submission_class_code": "BIOEQUIV",
+            "submission_class_code_description": "Bioequivalence"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "4",
+            "submission_status": "AP",
+            "submission_status_date": "19851127",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "14",
+            "submission_status": "AP",
+            "submission_status_date": "19901119",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "2",
+            "submission_status": "AP",
+            "submission_status_date": "19851127",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "12",
+            "submission_status": "AP",
+            "submission_status_date": "19900629",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "10",
+            "submission_status": "AP",
+            "submission_status_date": "19880805",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "9",
+            "submission_status": "AP",
+            "submission_status_date": "19880805",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19820816"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "7",
+            "submission_status": "AP",
+            "submission_status_date": "19881206",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          }
+        ],
+        "application_number": "ANDA087244",
+        "sponsor_name": "WATSON LABS",
+        "products": [
+          {
+            "id":12,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "ERGOLOID MESYLATES",
+            "active_ingredients": [
+              {
+                "name": "ERGOLOID MESYLATES",
+                "strength": "1MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "application_number": "ANDA087656",
+        "sponsor_name": "PAR PHARM",
+        "products": [
+          {
+            "id":13,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "HYDROXYZINE PAMOATE",
+            "active_ingredients": [
+              {
+                "name": "HYDROXYZINE PAMOATE",
+                "strength": "EQ 25MG HYDROCHLORIDE"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "CAPSULE",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19820714"
+          }
+        ],
+        "application_number": "ANDA088012",
+        "sponsor_name": "VANGARD",
+        "products": [
+          {
+            "id":14,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "CHLORTHALIDONE",
+            "active_ingredients": [
+              {
+                "name": "CHLORTHALIDONE",
+                "strength": "25MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "2",
+            "submission_status": "AP",
+            "submission_status_date": "19840416",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          }
+        ],
+        "application_number": "ANDA088332",
+        "sponsor_name": "MYLAN",
+        "products": [
+          {
+            "id":15,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "THIORIDAZINE HYDROCHLORIDE",
+            "active_ingredients": [
+              {
+                "name": "THIORIDAZINE HYDROCHLORIDE",
+                "strength": "10MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "application_number": "ANDA088661",
+        "sponsor_name": "WEST WARD",
+        "products": [
+          {
+            "id":16,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "THIORIDAZINE HYDROCHLORIDE",
+            "active_ingredients": [
+              {
+                "name": "THIORIDAZINE HYDROCHLORIDE",
+                "strength": "50MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "application_number": "ANDA088972",
+        "sponsor_name": "QUANTUM PHARMICS",
+        "products": [
+          {
+            "id":17,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "BUTALBITAL, ASPIRIN AND CAFFEINE",
+            "active_ingredients": [
+              {
+                "name": "ASPIRIN",
+                "strength": "325MG"
+              },
+              {
+                "name": "BUTALBITAL",
+                "strength": "50MG"
+              },
+              {
+                "name": "CAFFEINE",
+                "strength": "40MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "35",
+            "submission_status": "AP",
+            "submission_status_date": "19910221",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "41",
+            "submission_status": "AP",
+            "submission_status_date": "19930521",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "19",
+            "submission_status": "AP",
+            "submission_status_date": "19800501",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "33",
+            "submission_status": "AP",
+            "submission_status_date": "19920423",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "17",
+            "submission_status": "AP",
+            "submission_status_date": "19800417",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "31",
+            "submission_status": "AP",
+            "submission_status_date": "19920904",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "23",
+            "submission_status": "AP",
+            "submission_status_date": "19830301",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "15",
+            "submission_status": "AP",
+            "submission_status_date": "19790420",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "21",
+            "submission_status": "AP",
+            "submission_status_date": "19810717",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "13",
+            "submission_status": "AP",
+            "submission_status_date": "19780817",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "11",
+            "submission_status": "AP",
+            "submission_status_date": "19780814",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "48",
+            "submission_status": "AP",
+            "submission_status_date": "19961031",
+            "review_priority": "STANDARD",
+            "submission_class_code": "EFFICACY",
+            "submission_class_code_description": "Efficacy"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "8",
+            "submission_status": "AP",
+            "submission_status_date": "19780530",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "46",
+            "submission_status": "AP",
+            "submission_status_date": "19951017",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "6",
+            "submission_status": "AP",
+            "submission_status_date": "19790316",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "38",
+            "submission_status": "AP",
+            "submission_status_date": "19920807",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "4",
+            "submission_status": "AP",
+            "submission_status_date": "19780216",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "44",
+            "submission_status": "AP",
+            "submission_status_date": "19940608",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "36",
+            "submission_status": "AP",
+            "submission_status_date": "19920722",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "2",
+            "submission_status": "AP",
+            "submission_status_date": "19790316",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "28",
+            "submission_status": "AP",
+            "submission_status_date": "19860416",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "42",
+            "submission_status": "AP",
+            "submission_status_date": "19940721",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "34",
+            "submission_status": "AP",
+            "submission_status_date": "19920908",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "26",
+            "submission_status": "AP",
+            "submission_status_date": "19920821",
+            "review_priority": "STANDARD",
+            "submission_class_code": "EFFICACY",
+            "submission_class_code_description": "Efficacy"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "40",
+            "submission_status": "AP",
+            "submission_status_date": "19930422",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "18",
+            "submission_status": "AP",
+            "submission_status_date": "19800401",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "32",
+            "submission_status": "AP",
+            "submission_status_date": "19910304",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19770225",
+            "review_priority": "STANDARD",
+            "submission_class_code": "TYPE 1",
+            "submission_class_code_description": "Type 1 - New Molecular Entity"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "24",
+            "submission_status": "AP",
+            "submission_status_date": "19860415",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "16",
+            "submission_status": "AP",
+            "submission_status_date": "19790420",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "30",
+            "submission_status": "AP",
+            "submission_status_date": "19871204",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "22",
+            "submission_status": "AP",
+            "submission_status_date": "19810715",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "14",
+            "submission_status": "AP",
+            "submission_status_date": "19801014",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "12",
+            "submission_status": "AP",
+            "submission_status_date": "19780811",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "10",
+            "submission_status": "AP",
+            "submission_status_date": "19780814",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "49",
+            "submission_status": "AP",
+            "submission_status_date": "19960606",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "9",
+            "submission_status": "AP",
+            "submission_status_date": "19780530",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "47",
+            "submission_status": "AP",
+            "submission_status_date": "19951020",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "7",
+            "submission_status": "AP",
+            "submission_status_date": "19780524",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "45",
+            "submission_status": "AP",
+            "submission_status_date": "19951107",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "5",
+            "submission_status": "AP",
+            "submission_status_date": "19790316",
+            "review_priority": "STANDARD",
+            "submission_class_code": "EFFICACY",
+            "submission_class_code_description": "Efficacy"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "51",
+            "submission_status": "AP",
+            "submission_status_date": "20020211",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "3",
+            "submission_status": "AP",
+            "submission_status_date": "19780216",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "43",
+            "submission_status": "AP",
+            "submission_status_date": "19950203",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          }
+        ],
+        "application_number": "NDA017661",
+        "sponsor_name": "NOVARTIS",
+        "products": [
+          {
+            "id":18,
+            "product_number": "002",
+            "reference_drug": "No",
+            "brand_name": "TAVIST-1",
+            "active_ingredients": [
+              {
+                "name": "CLEMASTINE FUMARATE",
+                "strength": "1.34MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          },
+          {
+            "id":19,
+            "product_number": "003",
+            "reference_drug": "No",
+            "brand_name": "TAVIST-1",
+            "active_ingredients": [
+              {
+                "name": "CLEMASTINE FUMARATE",
+                "strength": "1.34MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          },
+          {
+            "id":20,
+            "product_number": "001",
+            "reference_drug": "Yes",
+            "brand_name": "TAVIST",
+            "active_ingredients": [
+              {
+                "name": "CLEMASTINE FUMARATE",
+                "strength": "2.68MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20110426",
+            "application_docs": [
+              {
+                "id": "9149",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/078366s000ltr.pdf",
+                "date": "20110428",
+                "type": "Letter"
+              }
+            ]
+          }
+        ],
+        "application_number": "ANDA078366",
+        "sponsor_name": "DR REDDYS LABS LTD",
+        "products": [
+          {
+            "id":21,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "DESLORATADINE AND PSEUDOEPHEDRINE SULFATE 24 HOUR",
+            "active_ingredients": [
+              {
+                "name": "DESLORATADINE",
+                "strength": "5MG"
+              },
+              {
+                "name": "PSEUDOEPHEDRINE SULFATE",
+                "strength": "240MG"
+              }
+            ],
+            "reference_standard": "Yes",
+            "dosage_form": "TABLET, EXTENDED RELEASE",
+            "route": "ORAL",
+            "marketing_status": "Prescription"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20120928"
+          }
+        ],
+        "application_number": "ANDA078657",
+        "sponsor_name": "FOUGERA PHARMS",
+        "openfda": {
+          "application_number": [
+            "ANDA078657"
+          ],
+          "brand_name": [
+            "DESOXIMETASONE"
+          ],
+          "generic_name": [
+            "DESOXIMETASONE"
+          ],
+          "manufacturer_name": [
+            "E. Fougera & Co. a division of Fougera Pharmaceuticals Inc."
+          ],
+          "product_ndc": [
+            "0168-0151"
+          ],
+          "product_type": [
+            "HUMAN PRESCRIPTION DRUG"
+          ],
+          "route": [
+            "TOPICAL"
+          ],
+          "substance_name": [
+            "DESOXIMETASONE"
+          ],
+          "rxcui": [
+            "197575"
+          ],
+          "spl_id": [
+            "aa08bd10-2801-4f27-82f1-c69c6a72418d"
+          ],
+          "spl_set_id": [
+            "e9dd2405-f89f-4f97-917f-6b8a3d2a9840"
+          ],
+          "package_ndc": [
+            "0168-0151-15",
+            "0168-0151-60"
+          ],
+          "nui": [
+            "N0000175576",
+            "N0000175450"
+          ],
+          "pharm_class_epc": [
+            "Corticosteroid [EPC]"
+          ],
+          "pharm_class_moa": [
+            "Corticosteroid Hormone Receptor Agonists [MoA]"
+          ],
+          "unii": [
+            "4E07GXB7AU"
+          ]
+        },
+        "products": [
+          {
+            "id":22,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "DESOXIMETASONE",
+            "active_ingredients": [
+              {
+                "name": "DESOXIMETASONE",
+                "strength": "0.25%"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "OINTMENT",
+            "route": "TOPICAL",
+            "marketing_status": "Prescription",
+            "te_code": "AB"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20120926"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "3",
+            "submission_status": "AP",
+            "submission_status_date": "20160128",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          }
+        ],
+        "application_number": "ANDA078963",
+        "sponsor_name": "ORBION PHARMS",
+        "openfda": {
+          "application_number": [
+            "ANDA078963"
+          ],
+          "brand_name": [
+            "MODAFINIL"
+          ],
+          "generic_name": [
+            "MODAFINIL"
+          ],
+          "manufacturer_name": [
+            "OrchidPharma Inc",
+            "Bionpharma Inc."
+          ],
+          "product_ndc": [
+            "42043-160",
+            "42043-161",
+            "69452-342",
+            "69452-343"
+          ],
+          "product_type": [
+            "HUMAN PRESCRIPTION DRUG"
+          ],
+          "route": [
+            "ORAL"
+          ],
+          "substance_name": [
+            "MODAFINIL"
+          ],
+          "rxcui": [
+            "205324",
+            "260218"
+          ],
+          "spl_id": [
+            "dc738068-3e56-47c5-afd8-7d471303c041",
+            "b9adb051-e799-463b-8a5b-f43622bb54c3"
+          ],
+          "spl_set_id": [
+            "01f6690c-1410-42ad-8eb3-e7df32eab3ba",
+            "63604fef-0b80-40ce-8dbf-3384f1aee395"
+          ],
+          "package_ndc": [
+            "42043-160-03",
+            "42043-160-90",
+            "42043-160-01",
+            "42043-161-03",
+            "42043-161-90",
+            "42043-161-01",
+            "69452-342-13",
+            "69452-342-19",
+            "69452-342-20",
+            "69452-343-13",
+            "69452-343-19",
+            "69452-343-20"
+          ],
+          "nui": [
+            "N0000175729",
+            "N0000175651",
+            "N0000175769"
+          ],
+          "pharm_class_pe": [
+            "Central Nervous System Stimulation [PE]",
+            "Increased Sympathetic Activity [PE]"
+          ],
+          "pharm_class_epc": [
+            "Sympathomimetic-like Agent [EPC]"
+          ],
+          "unii": [
+            "R3UK8X3U3D"
+          ]
+        },
+        "products": [
+          {
+            "id":23,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "MODAFINIL",
+            "active_ingredients": [
+              {
+                "name": "MODAFINIL",
+                "strength": "100MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Prescription",
+            "te_code": "AB"
+          },
+          {
+            "id":24,
+            "product_number": "002",
+            "reference_drug": "No",
+            "brand_name": "MODAFINIL",
+            "active_ingredients": [
+              {
+                "name": "MODAFINIL",
+                "strength": "200MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Prescription",
+            "te_code": "AB"
+          }
+        ]
+      },
+      {
+        "application_number": "ANDA083629",
+        "sponsor_name": "HALSEY",
+        "products": [
+          {
+            "id":25,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "KLOROMIN",
+            "active_ingredients": [
+              {
+                "name": "CHLORPHENIRAMINE MALEATE",
+                "strength": "4MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "48",
+            "submission_status": "AP",
+            "submission_status_date": "19870730",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "46",
+            "submission_status": "AP",
+            "submission_status_date": "19860210",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "44",
+            "submission_status": "AP",
+            "submission_status_date": "19860210",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "50",
+            "submission_status": "AP",
+            "submission_status_date": "19960610",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "39",
+            "submission_status": "AP",
+            "submission_status_date": "19820511",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "45",
+            "submission_status": "AP",
+            "submission_status_date": "19860210",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "51",
+            "submission_status": "AP",
+            "submission_status_date": "19960307",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "43",
+            "submission_status": "AP",
+            "submission_status_date": "19840126",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19760430"
+          }
+        ],
+        "application_number": "ANDA080693",
+        "sponsor_name": "FOUGERA PHARMS INC",
+        "openfda": {
+          "application_number": [
+            "ANDA080693"
+          ],
+          "brand_name": [
+            "HYDROCORTISONE"
+          ],
+          "generic_name": [
+            "HYDROCORTISONE"
+          ],
+          "manufacturer_name": [
+            "E. Fougera & Co. a division of Fougera Pharmaceuticals Inc."
+          ],
+          "product_ndc": [
+            "0168-0015"
+          ],
+          "product_type": [
+            "HUMAN PRESCRIPTION DRUG"
+          ],
+          "route": [
+            "TOPICAL"
+          ],
+          "substance_name": [
+            "HYDROCORTISONE"
+          ],
+          "rxcui": [
+            "106258"
+          ],
+          "spl_id": [
+            "5c4ea70e-1e8a-497e-8337-b0219b21b68d"
+          ],
+          "spl_set_id": [
+            "bc374fa4-ac8b-408e-9321-8bab97a18770"
+          ],
+          "package_ndc": [
+            "0168-0015-31",
+            "0168-0015-16"
+          ],
+          "nui": [
+            "N0000175576",
+            "N0000175450"
+          ],
+          "pharm_class_epc": [
+            "Corticosteroid [EPC]"
+          ],
+          "pharm_class_moa": [
+            "Corticosteroid Hormone Receptor Agonists [MoA]"
+          ],
+          "unii": [
+            "WI4X0X7BPJ"
+          ]
+        },
+        "products": [
+          {
+            "id":26,
+            "product_number": "003",
+            "reference_drug": "No",
+            "brand_name": "HYDROCORTISONE",
+            "active_ingredients": [
+              {
+                "name": "HYDROCORTISONE",
+                "strength": "1%"
+              }
+            ],
+            "reference_standard": "Yes",
+            "dosage_form": "CREAM",
+            "route": "TOPICAL",
+            "marketing_status": "Prescription",
+            "te_code": "AT"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19720726"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "36",
+            "submission_status": "AP",
+            "submission_status_date": "19870416",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "39",
+            "submission_status": "AP",
+            "submission_status_date": "19920629",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "37",
+            "submission_status": "AP",
+            "submission_status_date": "19870416",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "33",
+            "submission_status": "AP",
+            "submission_status_date": "19840202",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          }
+        ],
+        "application_number": "ANDA083017",
+        "sponsor_name": "ASTELLAS",
+        "products": [
+          {
+            "id":27,
+            "product_number": "004",
+            "reference_drug": "No",
+            "brand_name": "ARISTOCORT A",
+            "active_ingredients": [
+              {
+                "name": "TRIAMCINOLONE ACETONIDE",
+                "strength": "0.025%"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "CREAM",
+            "route": "TOPICAL",
+            "marketing_status": "Discontinued"
+          },
+          {
+            "id":28,
+            "product_number": "003",
+            "reference_drug": "No",
+            "brand_name": "ARISTOCORT",
+            "active_ingredients": [
+              {
+                "name": "TRIAMCINOLONE ACETONIDE",
+                "strength": "0.025%"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "CREAM",
+            "route": "TOPICAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "application_number": "ANDA080088",
+        "sponsor_name": "EVERYLIFE",
+        "products": [
+          {
+            "id":29,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "SULFADIAZINE",
+            "active_ingredients": [
+              {
+                "name": "SULFADIAZINE",
+                "strength": "500MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "application_number": "ANDA084247",
+        "sponsor_name": "PUREPAC PHARM",
+        "products": [
+          {
+            "id":30,
+            "product_number": "002",
+            "reference_drug": "No",
+            "brand_name": "HYDROCORTISONE",
+            "active_ingredients": [
+              {
+                "name": "HYDROCORTISONE",
+                "strength": "20MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          },
+          {
+            "id":31,
+            "product_number": "003",
+            "reference_drug": "No",
+            "brand_name": "HYDROCORTISONE",
+            "active_ingredients": [
+              {
+                "name": "HYDROCORTISONE",
+                "strength": "10MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19751007"
+          }
+        ],
+        "application_number": "ANDA084721",
+        "sponsor_name": "CARLISLE",
+        "products": [
+          {
+            "id":32,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "ALPHACAINE HYDROCHLORIDE",
+            "active_ingredients": [
+              {
+                "name": "LIDOCAINE HYDROCHLORIDE",
+                "strength": "2%"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "INJECTABLE",
+            "route": "INJECTION",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "38",
+            "submission_status": "AP",
+            "submission_status_date": "20200820",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "18",
+            "submission_status": "AP",
+            "submission_status_date": "19860417",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "16",
+            "submission_status": "AP",
+            "submission_status_date": "19851129",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19780120"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "37",
+            "submission_status": "AP",
+            "submission_status_date": "20200729",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "19",
+            "submission_status": "AP",
+            "submission_status_date": "19860417",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "17",
+            "submission_status": "AP",
+            "submission_status_date": "19851129",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "15",
+            "submission_status": "AP",
+            "submission_status_date": "19851129",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          }
+        ],
+        "application_number": "ANDA085182",
+        "sponsor_name": "HERITAGE PHARMS",
+        "openfda": {
+          "application_number": [
+            "ANDA085182"
+          ],
+          "brand_name": [
+            "HYDROCHLOROTHIAZIDE"
+          ],
+          "generic_name": [
+            "HYDROCHLOROTHIAZIDE"
+          ],
+          "manufacturer_name": [
+            "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
+          ],
+          "product_ndc": [
+            "23155-008",
+            "23155-009"
+          ],
+          "product_type": [
+            "HUMAN PRESCRIPTION DRUG"
+          ],
+          "route": [
+            "ORAL"
+          ],
+          "substance_name": [
+            "HYDROCHLOROTHIAZIDE"
+          ],
+          "rxcui": [
+            "197770",
+            "310798"
+          ],
+          "spl_id": [
+            "89171b8f-d1aa-44d5-8a53-febb6d414754"
+          ],
+          "spl_set_id": [
+            "c59c4230-7cea-4259-9f2f-6a568716fedf"
+          ],
+          "package_ndc": [
+            "23155-009-01",
+            "23155-009-05",
+            "23155-009-10",
+            "23155-009-18",
+            "23155-008-01",
+            "23155-008-05",
+            "23155-008-10",
+            "23155-008-18"
+          ],
+          "nui": [
+            "N0000175359",
+            "N0000175419",
+            "M0471776"
+          ],
+          "pharm_class_pe": [
+            "Increased Diuresis [PE]"
+          ],
+          "pharm_class_epc": [
+            "Thiazide Diuretic [EPC]"
+          ],
+          "pharm_class_cs": [
+            "Thiazides [CS]"
+          ],
+          "unii": [
+            "0J48LPH2TH"
+          ]
+        },
+        "products": [
+          {
+            "id":33,
+            "product_number": "002",
+            "reference_drug": "No",
+            "brand_name": "HYDROCHLOROTHIAZIDE",
+            "active_ingredients": [
+              {
+                "name": "HYDROCHLOROTHIAZIDE",
+                "strength": "25MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Prescription",
+            "te_code": "AB"
+          },
+          {
+            "id":34,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "HYDROCHLOROTHIAZIDE",
+            "active_ingredients": [
+              {
+                "name": "HYDROCHLOROTHIAZIDE",
+                "strength": "50MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Prescription",
+            "te_code": "AB"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19780428"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "4",
+            "submission_status": "AP",
+            "submission_status_date": "19850130",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          }
+        ],
+        "application_number": "ANDA085671",
+        "sponsor_name": "SANDOZ",
+        "products": [
+          {
+            "id":35,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "PHENTERMINE HYDROCHLORIDE",
+            "active_ingredients": [
+              {
+                "name": "PHENTERMINE HYDROCHLORIDE",
+                "strength": "8MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "application_number": "ANDA086062",
+        "sponsor_name": "PUREPAC PHARM",
+        "products": [
+          {
+            "id":36,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "PREDNISONE",
+            "active_ingredients": [
+              {
+                "name": "PREDNISONE",
+                "strength": "10MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19800625"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "7",
+            "submission_status": "AP",
+            "submission_status_date": "19880715",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "3",
+            "submission_status": "AP",
+            "submission_status_date": "19830718",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "11",
+            "submission_status": "AP",
+            "submission_status_date": "19960301",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "10",
+            "submission_status": "AP",
+            "submission_status_date": "19900326",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          }
+        ],
+        "application_number": "ANDA086720",
+        "sponsor_name": "PHARM ASSOC",
+        "products": [
+          {
+            "id":37,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "THEOPHYLLINE",
+            "active_ingredients": [
+              {
+                "name": "THEOPHYLLINE",
+                "strength": "80MG/15ML"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "ELIXIR",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "TA",
+            "submission_status_date": "20190816",
+            "submission_class_code": "UNKNOWN"
+          }
+        ],
+        "application_number": "ANDA202596",
+        "sponsor_name": "DR REDDYS LABS LTD"
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "TA",
+            "submission_status_date": "20190625",
+            "submission_class_code": "UNKNOWN"
+          }
+        ],
+        "application_number": "ANDA202963",
+        "sponsor_name": "DR REDDYS LABS LTD"
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20160518",
+            "review_priority": "STANDARD",
+            "submission_class_code": "UNKNOWN",
+            "application_docs": [
+              {
+                "id": "32415",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/203352Orig1s000ltr.pdf",
+                "date": "20160524",
+                "type": "Letter"
+              }
+            ]
+          }
+        ],
+        "application_number": "ANDA203352",
+        "sponsor_name": "JUBILANT CADISTA",
+        "products": [
+          {
+            "id":38,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "SODIUM CHLORIDE 0.9% IN PLASTIC CONTAINER",
+            "active_ingredients": [
+              {
+                "name": "SODIUM CHLORIDE",
+                "strength": "9MG/ML"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "INJECTABLE",
+            "route": "INJECTION",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20200224",
+            "submission_class_code": "UNKNOWN",
+            "application_docs": [
+              {
+                "id": "62163",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/203760Orig1s000ltr.pdf",
+                "date": "20200317",
+                "type": "Letter"
+              },
+              {
+                "id": "65865",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/203760Orig1s000.pdf",
+                "date": "20210107",
+                "type": "Review"
+              }
+            ]
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "2",
+            "submission_status": "AP",
+            "submission_status_date": "20200929",
+            "review_priority": "UNKNOWN",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          }
+        ],
+        "application_number": "ANDA203760",
+        "sponsor_name": "PADAGIS US",
+        "openfda": {
+          "application_number": [
+            "ANDA203760"
+          ],
+          "brand_name": [
+            "ALBUTEROL SULFATE"
+          ],
+          "generic_name": [
+            "ALBUTEROL SULFATE"
+          ],
+          "manufacturer_name": [
+            "Padagis Israel Pharmaceuticals Ltd"
+          ],
+          "product_ndc": [
+            "45802-088"
+          ],
+          "product_type": [
+            "HUMAN PRESCRIPTION DRUG"
+          ],
+          "route": [
+            "RESPIRATORY (INHALATION)"
+          ],
+          "substance_name": [
+            "ALBUTEROL SULFATE"
+          ],
+          "rxcui": [
+            "2123072"
+          ],
+          "spl_id": [
+            "f1eea648-b842-4180-bde7-2c3df519ce0e"
+          ],
+          "spl_set_id": [
+            "489201d2-9ed0-419b-81dc-a7f7f86b59ed"
+          ],
+          "package_ndc": [
+            "45802-088-01"
+          ],
+          "unii": [
+            "021SEF3731"
+          ]
+        },
+        "products": [
+          {
+            "id":39,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "ALBUTEROL SULFATE",
+            "active_ingredients": [
+              {
+                "name": "ALBUTEROL SULFATE",
+                "strength": "EQ 0.09MG BASE/INH"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "AEROSOL, METERED",
+            "route": "INHALATION",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19921127"
+          }
+        ],
+        "application_number": "ANDA089779",
+        "sponsor_name": "MARSAM PHARMS LLC",
+        "products": [
+          {
+            "id":40,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "PHENYTOIN SODIUM",
+            "active_ingredients": [
+              {
+                "name": "PHENYTOIN SODIUM",
+                "strength": "50MG/ML"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "INJECTABLE",
+            "route": "INJECTION",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "2",
+            "submission_status": "AP",
+            "submission_status_date": "19840627",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "9",
+            "submission_status": "AP",
+            "submission_status_date": "20020903",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling",
+            "application_docs": [
+              {
+                "id": "1052",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/18726slr012,009ltr.pdf",
+                "date": "20020903",
+                "type": "Letter"
+              },
+              {
+                "id": "33580",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2002/18726s9s12lbl.pdf",
+                "date": "20020903",
+                "type": "Label"
+              }
+            ]
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "7",
+            "submission_status": "AP",
+            "submission_status_date": "19911230",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "3",
+            "submission_status": "AP",
+            "submission_status_date": "19840821",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "12",
+            "submission_status": "AP",
+            "submission_status_date": "20020903",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling",
+            "application_docs": [
+              {
+                "id": "1053",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/18726slr012,009ltr.pdf",
+                "date": "20000921",
+                "type": "Letter"
+              },
+              {
+                "id": "33581",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2002/18726s9s12lbl.pdf",
+                "date": "20020903",
+                "type": "Label"
+              }
+            ]
+          },
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19830808",
+            "review_priority": "STANDARD",
+            "submission_class_code": "TYPE 3",
+            "submission_class_code_description": "Type 3 - New Dosage Form"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "8",
+            "submission_status": "AP",
+            "submission_status_date": "19930222",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "4",
+            "submission_status": "AP",
+            "submission_status_date": "19850103",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          }
+        ],
+        "application_number": "NDA018726",
+        "sponsor_name": "SUN PHARM INDS INC",
+        "products": [
+          {
+            "id":41,
+            "product_number": "001",
+            "reference_drug": "Yes",
+            "brand_name": "WESTCORT",
+            "active_ingredients": [
+              {
+                "name": "HYDROCORTISONE VALERATE",
+                "strength": "0.2% **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "OINTMENT",
+            "route": "TOPICAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "9",
+            "submission_status": "AP",
+            "submission_status_date": "19980218",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19831003",
+            "review_priority": "STANDARD",
+            "submission_class_code": "TYPE 3",
+            "submission_class_code_description": "Type 3 - New Dosage Form"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "7",
+            "submission_status": "AP",
+            "submission_status_date": "19960125",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "5",
+            "submission_status": "AP",
+            "submission_status_date": "19940726",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "3",
+            "submission_status": "AP",
+            "submission_status_date": "20040427",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling",
+            "application_docs": [
+              {
+                "id": "11319",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2004/18763slr003_topicort_lbl.pdf",
+                "date": "20040504",
+                "type": "Label"
+              },
+              {
+                "id": "1064",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/18763slr003ltr.pdf",
+                "date": "20040429",
+                "type": "Letter"
+              }
+            ]
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19880218",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "6",
+            "submission_status": "AP",
+            "submission_status_date": "19960119",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "4",
+            "submission_status": "AP",
+            "submission_status_date": "19931013",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          }
+        ],
+        "application_number": "NDA018763",
+        "sponsor_name": "TARO PHARM INDS LTD",
+        "products": [
+          {
+            "id":42,
+            "product_number": "001",
+            "reference_drug": "Yes",
+            "brand_name": "TOPICORT",
+            "active_ingredients": [
+              {
+                "name": "DESOXIMETASONE",
+                "strength": "0.25% **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "OINTMENT",
+            "route": "TOPICAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "application_number": "ANDA089355",
+        "sponsor_name": "ABIC",
+        "products": [
+          {
+            "id":43,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "ABITREXATE",
+            "active_ingredients": [
+              {
+                "name": "METHOTREXATE SODIUM",
+                "strength": "EQ 100MG BASE/VIAL"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "INJECTABLE",
+            "route": "INJECTION",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "27",
+            "submission_status": "AP",
+            "submission_status_date": "20140212",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "13",
+            "submission_status": "AP",
+            "submission_status_date": "19990831",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "11",
+            "submission_status": "AP",
+            "submission_status_date": "19960829",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "7",
+            "submission_status": "AP",
+            "submission_status_date": "19890210",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "5",
+            "submission_status": "AP",
+            "submission_status_date": "19850315",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "3",
+            "submission_status": "AP",
+            "submission_status_date": "19840117",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19840125",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19821029",
+            "review_priority": "STANDARD",
+            "submission_class_code": "TYPE 5",
+            "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "28",
+            "submission_status": "AP",
+            "submission_status_date": "20140612",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "24",
+            "submission_status": "AP",
+            "submission_status_date": "20150126",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "14",
+            "submission_status": "AP",
+            "submission_status_date": "20010216",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "12",
+            "submission_status": "AP",
+            "submission_status_date": "20010912",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "8",
+            "submission_status": "AP",
+            "submission_status_date": "19880324",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "10",
+            "submission_status": "AP",
+            "submission_status_date": "19970117",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "6",
+            "submission_status": "AP",
+            "submission_status_date": "19841022",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "4",
+            "submission_status": "AP",
+            "submission_status_date": "19860225",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "2",
+            "submission_status": "AP",
+            "submission_status_date": "19840614",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          }
+        ],
+        "application_number": "NDA018803",
+        "sponsor_name": "HOSPIRA",
+        "openfda": {
+          "application_number": [
+            "NDA018803"
+          ],
+          "brand_name": [
+            "SODIUM CHLORIDE",
+            "AMPHENOL-40"
+          ],
+          "generic_name": [
+            "SODIUM CHLORIDE"
+          ],
+          "manufacturer_name": [
+            "Hospira, Inc.",
+            "IT3 Medical LLC"
+          ],
+          "product_ndc": [
+            "0409-4888",
+            "0409-1918",
+            "70529-136"
+          ],
+          "product_type": [
+            "HUMAN PRESCRIPTION DRUG"
+          ],
+          "route": [
+            "INTRAMUSCULAR",
+            "INTRAVENOUS",
+            "SUBCUTANEOUS"
+          ],
+          "substance_name": [
+            "SODIUM CHLORIDE"
+          ],
+          "rxcui": [
+            "1807628",
+            "1807631",
+            "1807637",
+            "1807638"
+          ],
+          "spl_id": [
+            "2c9688fd-e2a3-47b6-9faf-006f4eaffe5b",
+            "d8052160-e884-42d8-b50a-f0d2c694305d"
+          ],
+          "spl_set_id": [
+            "8eb172da-dcd4-4660-4a8f-ad44a14b4af7",
+            "cbcdc635-ab36-46a0-af69-6f6d0c5f6ebb"
+          ],
+          "package_ndc": [
+            "0409-4888-02",
+            "0409-4888-10",
+            "0409-4888-03",
+            "0409-4888-20",
+            "0409-4888-06",
+            "0409-4888-50",
+            "0409-4888-01",
+            "0409-4888-12",
+            "0409-4888-90",
+            "0409-1918-42",
+            "0409-1918-32",
+            "0409-1918-43",
+            "0409-1918-33",
+            "0409-1918-45",
+            "0409-1918-35",
+            "70529-136-02"
+          ],
+          "unii": [
+            "451W47IQ8X"
+          ]
+        },
+        "products": [
+          {
+            "id":44,
+            "product_number": "001",
+            "reference_drug": "Yes",
+            "brand_name": "SODIUM CHLORIDE 0.9% IN PLASTIC CONTAINER",
+            "active_ingredients": [
+              {
+                "name": "SODIUM CHLORIDE",
+                "strength": "9MG/ML"
+              }
+            ],
+            "reference_standard": "Yes",
+            "dosage_form": "INJECTABLE",
+            "route": "INJECTION",
+            "marketing_status": "Prescription",
+            "te_code": "AP"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20220215",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20150629"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "2",
+            "submission_status": "AP",
+            "submission_status_date": "20220215",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          }
+        ],
+        "application_number": "ANDA091232",
+        "sponsor_name": "XIROMED",
+        "openfda": {
+          "application_number": [
+            "ANDA091232"
+          ],
+          "brand_name": [
+            "NORGESTIMATE AND ETHINYL ESTRADIOL",
+            "TRI-LO- ESTARYLLA"
+          ],
+          "generic_name": [
+            "NORGESTIMATE AND ETHINYL ESTRADIOL"
+          ],
+          "manufacturer_name": [
+            "AvKARE",
+            "Xiromed, LLC."
+          ],
+          "product_ndc": [
+            "42291-565",
+            "70700-120"
+          ],
+          "product_type": [
+            "HUMAN PRESCRIPTION DRUG"
+          ],
+          "rxcui": [
+            "578732",
+            "748797",
+            "749155",
+            "749156",
+            "749157",
+            "1722676"
+          ],
+          "spl_id": [
+            "d5684c0c-735a-20de-e053-2995a90a1b37",
+            "15fe9d2f-132f-93ec-19a0-cd25034a01d8"
+          ],
+          "spl_set_id": [
+            "a3ce752d-58df-363d-e053-2a95a90a5411",
+            "8381db98-f9b2-e894-c07e-5d49f10e4eea"
+          ],
+          "package_ndc": [
+            "42291-565-28",
+            "42291-565-84",
+            "70700-120-84",
+            "70700-120-85"
+          ]
+        },
+        "products": [
+          {
+            "id":45,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "TRI-LO-ESTARYLLA",
+            "active_ingredients": [
+              {
+                "name": "ETHINYL ESTRADIOL",
+                "strength": "0.025MG,0.025MG,0.025MG"
+              },
+              {
+                "name": "NORGESTIMATE",
+                "strength": "0.18MG,0.215MG,0.25MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL-28",
+            "marketing_status": "Prescription",
+            "te_code": "AB"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "2",
+            "submission_status": "AP",
+            "submission_status_date": "20150723",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20120120"
+          }
+        ],
+        "application_number": "ANDA091568",
+        "sponsor_name": "AUROBINDO PHARMA LTD",
+        "openfda": {
+          "application_number": [
+            "ANDA091568"
+          ],
+          "brand_name": [
+            "AMOXICILLIN AND CLAVULANATE POTASSIUM"
+          ],
+          "generic_name": [
+            "AMOXICILLIN AND CLAVULANATE POTASSIUM"
+          ],
+          "manufacturer_name": [
+            "Aurobindo Pharma Limited",
+            "NorthStar Rx LLC"
+          ],
+          "product_ndc": [
+            "65862-503",
+            "65862-501",
+            "65862-502",
+            "16714-297",
+            "16714-295",
+            "16714-296"
+          ],
+          "product_type": [
+            "HUMAN PRESCRIPTION DRUG"
+          ],
+          "route": [
+            "ORAL"
+          ],
+          "substance_name": [
+            "AMOXICILLIN",
+            "CLAVULANATE POTASSIUM"
+          ],
+          "rxcui": [
+            "562251",
+            "562508",
+            "617296"
+          ],
+          "spl_id": [
+            "98f90689-98a3-4c2b-b17c-d96b462c58db",
+            "605b77d7-4a18-4df5-b7fb-c7ca4125a8db"
+          ],
+          "spl_set_id": [
+            "ffb158a1-83ba-4100-9221-175aa986dc3e",
+            "d75b0a7e-cb9b-4102-bcac-097403b25129"
+          ],
+          "package_ndc": [
+            "65862-501-30",
+            "65862-501-05",
+            "65862-502-20",
+            "65862-502-05",
+            "65862-503-20",
+            "65862-503-01",
+            "16714-295-01",
+            "16714-296-01",
+            "16714-297-01",
+            "16714-297-02"
+          ],
+          "unii": [
+            "804826J2HU",
+            "Q42OMW3AT8"
+          ]
+        },
+        "products": [
+          {
+            "id":46,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "AMOXICILLIN AND CLAVULANATE POTASSIUM",
+            "active_ingredients": [
+              {
+                "name": "AMOXICILLIN",
+                "strength": "875MG"
+              },
+              {
+                "name": "CLAVULANATE POTASSIUM",
+                "strength": "EQ 125MG BASE"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Prescription",
+            "te_code": "AB"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20140203"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "3",
+            "submission_status": "AP",
+            "submission_status_date": "20170104",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20140718",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "4",
+            "submission_status": "AP",
+            "submission_status_date": "20200520",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "2",
+            "submission_status": "AP",
+            "submission_status_date": "20161221",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "7",
+            "submission_status": "AP",
+            "submission_status_date": "20210921",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          }
+        ],
+        "application_number": "ANDA200151",
+        "sponsor_name": "TEVA PHARMS USA",
+        "products": [
+          {
+            "id":47,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "SELFEMRA",
+            "active_ingredients": [
+              {
+                "name": "FLUOXETINE HYDROCHLORIDE",
+                "strength": "EQ 10MG BASE"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          },
+          {
+            "id":48,
+            "product_number": "002",
+            "reference_drug": "No",
+            "brand_name": "SELFEMRA",
+            "active_ingredients": [
+              {
+                "name": "FLUOXETINE HYDROCHLORIDE",
+                "strength": "EQ 15MG BASE"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          },
+          {
+            "id":49,
+            "product_number": "003",
+            "reference_drug": "No",
+            "brand_name": "SELFEMRA",
+            "active_ingredients": [
+              {
+                "name": "FLUOXETINE HYDROCHLORIDE",
+                "strength": "EQ 20MG BASE"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20130913",
+            "submission_class_code": "N/A",
+            "submission_class_code_description": "Not Applicable"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20140829",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          }
+        ],
+        "application_number": "ANDA200961",
+        "sponsor_name": "NOVAST LABS",
+        "openfda": {
+          "application_number": [
+            "ANDA200961"
+          ],
+          "brand_name": [
+            "SHAROBEL"
+          ],
+          "generic_name": [
+            "NORETHINDRONE"
+          ],
+          "manufacturer_name": [
+            "Northstar Rx LLC"
+          ],
+          "product_ndc": [
+            "16714-441"
+          ],
+          "product_type": [
+            "HUMAN PRESCRIPTION DRUG"
+          ],
+          "rxcui": [
+            "198042",
+            "748961",
+            "1539955"
+          ],
+          "spl_id": [
+            "e01f30e6-6999-41c5-b3f7-efcfaac1481c"
+          ],
+          "spl_set_id": [
+            "a96f5194-ad2a-4783-a9a9-22a288caff25"
+          ],
+          "package_ndc": [
+            "16714-441-01",
+            "16714-441-02",
+            "16714-441-03",
+            "16714-441-04"
+          ]
+        },
+        "products": [
+          {
+            "id":50,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "NORETHINDRONE",
+            "active_ingredients": [
+              {
+                "name": "NORETHINDRONE",
+                "strength": "0.35MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL-28",
+            "marketing_status": "Prescription",
+            "te_code": "AB2"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "8",
+            "submission_status": "AP",
+            "submission_status_date": "20211109",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "6",
+            "submission_status": "AP",
+            "submission_status_date": "20200210",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "4",
+            "submission_status": "AP",
+            "submission_status_date": "20150619",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "7",
+            "submission_status": "AP",
+            "submission_status_date": "20200210",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "5",
+            "submission_status": "AP",
+            "submission_status_date": "20150619",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "3",
+            "submission_status": "AP",
+            "submission_status_date": "20150619",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20140424",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20130118",
+            "submission_class_code": "UNKNOWN"
+          }
+        ],
+        "application_number": "ANDA201791",
+        "sponsor_name": "PAR PHARM",
+        "openfda": {
+          "application_number": [
+            "ANDA201791"
+          ],
+          "brand_name": [
+            "LAMOTRIGINE EXTENDED RELEASE"
+          ],
+          "generic_name": [
+            "LAMOTRIGINE EXTENDED RELEASE"
+          ],
+          "manufacturer_name": [
+            "Par Pharmaceutical, Inc."
+          ],
+          "product_ndc": [
+            "49884-561",
+            "49884-562",
+            "49884-563",
+            "49884-564",
+            "49884-604",
+            "49884-605"
+          ],
+          "product_type": [
+            "HUMAN PRESCRIPTION DRUG"
+          ],
+          "route": [
+            "ORAL"
+          ],
+          "substance_name": [
+            "LAMOTRIGINE"
+          ],
+          "rxcui": [
+            "850087",
+            "850091",
+            "900156",
+            "900164",
+            "1098608",
+            "1146690"
+          ],
+          "spl_id": [
+            "3c26caa3-84f9-442d-b752-9dda35d0bacb"
+          ],
+          "spl_set_id": [
+            "fb59c76a-9b6f-40ea-ac3a-58c3195c4377"
+          ],
+          "package_ndc": [
+            "49884-561-01",
+            "49884-561-05",
+            "49884-561-11",
+            "49884-562-01",
+            "49884-562-05",
+            "49884-562-11",
+            "49884-563-01",
+            "49884-563-05",
+            "49884-563-11",
+            "49884-564-01",
+            "49884-564-05",
+            "49884-564-11",
+            "49884-604-01",
+            "49884-604-05",
+            "49884-604-11",
+            "49884-605-01",
+            "49884-605-05",
+            "49884-605-11"
+          ],
+          "nui": [
+            "N0000175753",
+            "N0000008486",
+            "N0000175751",
+            "N0000187061",
+            "N0000000191"
+          ],
+          "pharm_class_epc": [
+            "Anti-epileptic Agent [EPC]",
+            "Mood Stabilizer [EPC]"
+          ],
+          "pharm_class_pe": [
+            "Decreased Central Nervous System Disorganized Electrical Activity [PE]"
+          ],
+          "pharm_class_moa": [
+            "Organic Cation Transporter 2 Inhibitors [MoA]",
+            "Dihydrofolate Reductase Inhibitors [MoA]"
+          ],
+          "unii": [
+            "U3H27498KS"
+          ]
+        },
+        "products": [
+          {
+            "id":51,
+            "product_number": "005",
+            "reference_drug": "No",
+            "brand_name": "LAMOTRIGINE",
+            "active_ingredients": [
+              {
+                "name": "LAMOTRIGINE",
+                "strength": "250MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET, EXTENDED RELEASE",
+            "route": "ORAL",
+            "marketing_status": "Prescription",
+            "te_code": "AB"
+          },
+          {
+            "id":52,
+            "product_number": "003",
+            "reference_drug": "No",
+            "brand_name": "LAMOTRIGINE",
+            "active_ingredients": [
+              {
+                "name": "LAMOTRIGINE",
+                "strength": "100MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET, EXTENDED RELEASE",
+            "route": "ORAL",
+            "marketing_status": "Prescription",
+            "te_code": "AB"
+          },
+          {
+            "id":53,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "LAMOTRIGINE",
+            "active_ingredients": [
+              {
+                "name": "LAMOTRIGINE",
+                "strength": "25MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET, EXTENDED RELEASE",
+            "route": "ORAL",
+            "marketing_status": "Prescription",
+            "te_code": "AB"
+          },
+          {
+            "id":54,
+            "product_number": "006",
+            "reference_drug": "No",
+            "brand_name": "LAMOTRIGINE",
+            "active_ingredients": [
+              {
+                "name": "LAMOTRIGINE",
+                "strength": "300MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET, EXTENDED RELEASE",
+            "route": "ORAL",
+            "marketing_status": "Prescription",
+            "te_code": "AB"
+          },
+          {
+            "id":55,
+            "product_number": "004",
+            "reference_drug": "No",
+            "brand_name": "LAMOTRIGINE",
+            "active_ingredients": [
+              {
+                "name": "LAMOTRIGINE",
+                "strength": "200MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET, EXTENDED RELEASE",
+            "route": "ORAL",
+            "marketing_status": "Prescription",
+            "te_code": "AB"
+          },
+          {
+            "id":56,
+            "product_number": "002",
+            "reference_drug": "No",
+            "brand_name": "LAMOTRIGINE",
+            "active_ingredients": [
+              {
+                "name": "LAMOTRIGINE",
+                "strength": "50MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET, EXTENDED RELEASE",
+            "route": "ORAL",
+            "marketing_status": "Prescription",
+            "te_code": "AB"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20121003"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "37",
+            "submission_status": "AP",
+            "submission_status_date": "20211208",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "41",
+            "submission_status": "AP",
+            "submission_status_date": "20211208",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "6",
+            "submission_status": "AP",
+            "submission_status_date": "20151228",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "2",
+            "submission_status": "AP",
+            "submission_status_date": "20130311",
+            "review_priority": "UNKNOWN",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "21",
+            "submission_status": "AP",
+            "submission_status_date": "20181024",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "11",
+            "submission_status": "AP",
+            "submission_status_date": "20160809",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "34",
+            "submission_status": "AP",
+            "submission_status_date": "20210506",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          }
+        ],
+        "application_number": "ANDA202254",
+        "sponsor_name": "MACLEODS PHARMS LTD",
+        "openfda": {
+          "application_number": [
+            "ANDA202254"
+          ],
+          "brand_name": [
+            "IRBESARTAN"
+          ],
+          "generic_name": [
+            "IRBESARTAN"
+          ],
+          "manufacturer_name": [
+            "Macleods Pharmaceuticals Limited"
+          ],
+          "product_ndc": [
+            "33342-047",
+            "33342-048",
+            "33342-049"
+          ],
+          "product_type": [
+            "HUMAN PRESCRIPTION DRUG"
+          ],
+          "route": [
+            "ORAL"
+          ],
+          "substance_name": [
+            "IRBESARTAN"
+          ],
+          "rxcui": [
+            "200094",
+            "200095",
+            "200096"
+          ],
+          "spl_id": [
+            "f16a837e-a180-4080-bbb8-f994841d9fa1"
+          ],
+          "spl_set_id": [
+            "e8635a1c-ae06-4e23-99f7-e704f91d6f43"
+          ],
+          "package_ndc": [
+            "33342-047-07",
+            "33342-047-15",
+            "33342-047-12",
+            "33342-047-10",
+            "33342-047-68",
+            "33342-048-07",
+            "33342-048-15",
+            "33342-048-12",
+            "33342-048-10",
+            "33342-048-65",
+            "33342-049-07",
+            "33342-049-15",
+            "33342-049-39",
+            "33342-049-10",
+            "33342-049-76"
+          ],
+          "nui": [
+            "N0000000070",
+            "N0000175561"
+          ],
+          "pharm_class_moa": [
+            "Angiotensin 2 Receptor Antagonists [MoA]"
+          ],
+          "pharm_class_epc": [
+            "Angiotensin 2 Receptor Blocker [EPC]"
+          ],
+          "unii": [
+            "J0E2756Z7N"
+          ]
+        },
+        "products": [
+          {
+            "id":57,
+            "product_number": "003",
+            "reference_drug": "No",
+            "brand_name": "IRBESARTAN",
+            "active_ingredients": [
+              {
+                "name": "IRBESARTAN",
+                "strength": "300MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Prescription",
+            "te_code": "AB"
+          },
+          {
+            "id":58,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "IRBESARTAN",
+            "active_ingredients": [
+              {
+                "name": "IRBESARTAN",
+                "strength": "75MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Prescription",
+            "te_code": "AB"
+          },
+          {
+            "id":59,
+            "product_number": "002",
+            "reference_drug": "No",
+            "brand_name": "IRBESARTAN",
+            "active_ingredients": [
+              {
+                "name": "IRBESARTAN",
+                "strength": "150MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Prescription",
+            "te_code": "AB"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "6",
+            "submission_status": "AP",
+            "submission_status_date": "20181026",
+            "review_priority": "901 REQUIRED",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling",
+            "application_docs": [
+              {
+                "id": "56163",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/208658s006lbl.pdf",
+                "date": "20181029",
+                "type": "Label"
+              },
+              {
+                "id": "56178",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/204629Orig1s018,206073Orig1s019,206111Orig1s018,208658Orig1s006ltr.pdf",
+                "date": "20181030",
+                "type": "Letter"
+              }
+            ]
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "4",
+            "submission_status": "AP",
+            "submission_status_date": "20171213",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling",
+            "application_docs": [
+              {
+                "id": "50689",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/208658s004lbl.pdf",
+                "date": "20171214",
+                "type": "Label"
+              },
+              {
+                "id": "50714",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/206111Orig1s015,208658Orig1s004ltr.pdf",
+                "date": "20171215",
+                "type": "Letter"
+              }
+            ]
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "15",
+            "submission_status": "AP",
+            "submission_status_date": "20210611",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling",
+            "application_docs": [
+              {
+                "id": "67789",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/208658s013s015lbl.pdf",
+                "date": "20210614",
+                "type": "Label"
+              },
+              {
+                "id": "67791",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/204629Orig1s028, s029; 206073Orig1s027, s030; 206111Orig1s025, s026; 208658Orig1s013, s015; 212614Orig1s008, s010ltr.pdf",
+                "date": "20210614",
+                "type": "Letter"
+              },
+              {
+                "id": "67793",
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/208658s013s015lbl.pdf#page=36",
+                "date": "20210614",
+                "type": "Medication Guide"
+              }
+            ]
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "13",
+            "submission_status": "AP",
+            "submission_status_date": "20210611",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling",
+            "application_docs": [
+              {
+                "id": "67790",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/208658s013s015lbl.pdf",
+                "date": "20210614",
+                "type": "Label"
+              },
+              {
+                "id": "67792",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/204629Orig1s028, 206073Orig1s027, 206111Orig1s025, 208658Orig1s013, 212614Orig1s008ltr.pdf",
+                "date": "20210628",
+                "type": "Letter"
+              }
+            ]
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "9",
+            "submission_status": "AP",
+            "submission_status_date": "20200124",
+            "review_priority": "901 REQUIRED",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling",
+            "application_docs": [
+              {
+                "id": "61667",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/208658s009lbl.pdf",
+                "date": "20200127",
+                "type": "Label"
+              },
+              {
+                "id": "61675",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/204629Orig1s023,206073Orig1s023,206111Orig1s022,208658Orig1s009ltr.pdf",
+                "date": "20200127",
+                "type": "Letter"
+              }
+            ]
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20161223",
+            "review_priority": "STANDARD",
+            "submission_class_code": "EFFICACY",
+            "submission_class_code_description": "Efficacy",
+            "application_docs": [
+              {
+                "id": "46542",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/208658s001lbl.pdf",
+                "date": "20161227",
+                "type": "Label"
+              },
+              {
+                "id": "46555",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/208658Orig1s001ltr.pdf",
+                "date": "20161227",
+                "type": "Letter"
+              }
+            ]
+          },
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20161209",
+            "review_priority": "STANDARD",
+            "submission_class_code": "TYPE 3",
+            "submission_class_code_description": "Type 3 - New Dosage Form",
+            "application_docs": [
+              {
+                "id": "46128",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/208658Orig1s000ltr.pdf",
+                "date": "20161213",
+                "type": "Letter"
+              },
+              {
+                "id": "46166",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/208658s000lbl.pdf",
+                "date": "20161215",
+                "type": "Label"
+              },
+              {
+                "id": "50199",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2016/208658Orig1s000TOC.cfm",
+                "date": "20171026",
+                "type": "Review"
+              }
+            ]
+          }
+        ],
+        "application_number": "NDA208658",
+        "sponsor_name": "BOEHRINGER INGELHEIM",
+        "openfda": {
+          "application_number": [
+            "NDA208658"
+          ],
+          "brand_name": [
+            "SYNJARDY XR"
+          ],
+          "generic_name": [
+            "EMPAGLIFLOZIN, METFORMIN HYDROCHLORIDE"
+          ],
+          "manufacturer_name": [
+            "Boehringer Ingelheim Pharmaceuticals, Inc."
+          ],
+          "product_ndc": [
+            "0597-0280",
+            "0597-0290",
+            "0597-0295",
+            "0597-0300"
+          ],
+          "product_type": [
+            "HUMAN PRESCRIPTION DRUG"
+          ],
+          "route": [
+            "ORAL"
+          ],
+          "substance_name": [
+            "EMPAGLIFLOZIN",
+            "METFORMIN HYDROCHLORIDE"
+          ],
+          "rxcui": [
+            "1862685",
+            "1862688",
+            "1862691",
+            "1862692",
+            "1862695",
+            "1862697",
+            "1862700",
+            "1862701"
+          ],
+          "spl_id": [
+            "a5225914-5c8f-43bc-8c67-1ce59225718e"
+          ],
+          "spl_set_id": [
+            "8006ba29-ee3a-f852-a9bb-c8ec9b41cf66"
+          ],
+          "package_ndc": [
+            "0597-0280-36",
+            "0597-0280-73",
+            "0597-0280-90",
+            "0597-0290-20",
+            "0597-0290-59",
+            "0597-0290-74",
+            "0597-0295-61",
+            "0597-0295-78",
+            "0597-0295-88",
+            "0597-0300-20",
+            "0597-0300-45",
+            "0597-0300-93"
+          ],
+          "nui": [
+            "N0000187059",
+            "N0000187058"
+          ],
+          "pharm_class_epc": [
+            "Sodium-Glucose Cotransporter 2 Inhibitor [EPC]"
+          ],
+          "pharm_class_moa": [
+            "Sodium-Glucose Transporter 2 Inhibitors [MoA]"
+          ],
+          "unii": [
+            "786Z46389E",
+            "HDC1R2M35U"
+          ]
+        },
+        "products": [
+          {
+            "id":60,
+            "product_number": "003",
+            "reference_drug": "Yes",
+            "brand_name": "SYNJARDY XR",
+            "active_ingredients": [
+              {
+                "name": "EMPAGLIFLOZIN",
+                "strength": "12.5MG"
+              },
+              {
+                "name": "METFORMIN HYDROCHLORIDE",
+                "strength": "1GM"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET, EXTENDED RELEASE",
+            "route": "ORAL",
+            "marketing_status": "Prescription"
+          },
+          {
+            "id":61,
+            "product_number": "001",
+            "reference_drug": "Yes",
+            "brand_name": "SYNJARDY XR",
+            "active_ingredients": [
+              {
+                "name": "EMPAGLIFLOZIN",
+                "strength": "5MG"
+              },
+              {
+                "name": "METFORMIN HYDROCHLORIDE",
+                "strength": "1GM"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET, EXTENDED RELEASE",
+            "route": "ORAL",
+            "marketing_status": "Prescription"
+          },
+          {
+            "id":62,
+            "product_number": "004",
+            "reference_drug": "Yes",
+            "brand_name": "SYNJARDY XR",
+            "active_ingredients": [
+              {
+                "name": "EMPAGLIFLOZIN",
+                "strength": "25MG"
+              },
+              {
+                "name": "METFORMIN HYDROCHLORIDE",
+                "strength": "1GM"
+              }
+            ],
+            "reference_standard": "Yes",
+            "dosage_form": "TABLET, EXTENDED RELEASE",
+            "route": "ORAL",
+            "marketing_status": "Prescription"
+          },
+          {
+            "id":63,
+            "product_number": "002",
+            "reference_drug": "Yes",
+            "brand_name": "SYNJARDY XR",
+            "active_ingredients": [
+              {
+                "name": "EMPAGLIFLOZIN",
+                "strength": "10MG"
+              },
+              {
+                "name": "METFORMIN HYDROCHLORIDE",
+                "strength": "1GM"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET, EXTENDED RELEASE",
+            "route": "ORAL",
+            "marketing_status": "Prescription"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20160220",
+            "review_priority": "UNKNOWN",
+            "submission_class_code": "MEDGAS",
+            "submission_class_code_description": "Medical Gas",
+            "application_docs": [
+              {
+                "id": "60176",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/209033MGLtr.pdf",
+                "date": "20191001",
+                "type": "Letter"
+              }
+            ]
+          }
+        ],
+        "application_number": "NDA209033",
+        "sponsor_name": "NEXAIR LLC",
+        "products": [
+          {
+            "id":64,
+            "product_number": "000",
+            "reference_drug": "No",
+            "brand_name": "HELIUM, USP",
+            "active_ingredients": [
+              {
+                "name": "HELIUM",
+                "strength": "N/A"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "GAS",
+            "route": "INHALATION",
+            "marketing_status": "Prescription"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "24",
+            "submission_status": "AP",
+            "submission_status_date": "20140109",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "16",
+            "submission_status": "AP",
+            "submission_status_date": "19991019",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "8",
+            "submission_status": "AP",
+            "submission_status_date": "19920319",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "14",
+            "submission_status": "AP",
+            "submission_status_date": "19950711",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "6",
+            "submission_status": "AP",
+            "submission_status_date": "19910920",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "12",
+            "submission_status": "AP",
+            "submission_status_date": "19940726",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "4",
+            "submission_status": "AP",
+            "submission_status_date": "19910426",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "10",
+            "submission_status": "AP",
+            "submission_status_date": "19930210",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "25",
+            "submission_status": "AP",
+            "submission_status_date": "20140829",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "17",
+            "submission_status": "AP",
+            "submission_status_date": "20010711",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "23",
+            "submission_status": "AP",
+            "submission_status_date": "20130228",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "9",
+            "submission_status": "AP",
+            "submission_status_date": "19920529",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "15",
+            "submission_status": "AP",
+            "submission_status_date": "19970411",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "7",
+            "submission_status": "AP",
+            "submission_status_date": "19911022",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "13",
+            "submission_status": "AP",
+            "submission_status_date": "19950623",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "5",
+            "submission_status": "AP",
+            "submission_status_date": "19930114",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19901226",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "TYPE 1",
+            "submission_class_code_description": "Type 1 - New Molecular Entity",
+            "submission_property_type": [
+              {
+                "code": "Orphan"
+              }
+            ]
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "11",
+            "submission_status": "AP",
+            "submission_status_date": "19930312",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "3",
+            "submission_status": "AP",
+            "submission_status_date": "19930114",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19910314",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          }
+        ],
+        "application_number": "NDA019926",
+        "sponsor_name": "EISAI INC",
+        "products": [
+          {
+            "id":65,
+            "product_number": "001",
+            "reference_drug": "Yes",
+            "brand_name": "HEXALEN",
+            "active_ingredients": [
+              {
+                "name": "ALTRETAMINE",
+                "strength": "50MG"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "CAPSULE",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19951229",
+            "review_priority": "STANDARD",
+            "submission_class_code": "TYPE 3",
+            "submission_class_code_description": "Type 3 - New Dosage Form"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "2",
+            "submission_status": "AP",
+            "submission_status_date": "19960819",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "7",
+            "submission_status": "AP",
+            "submission_status_date": "20000801",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling",
+            "application_docs": [
+              {
+                "id": "1870",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/19963S5,7LTR.PDF",
+                "date": "20000801",
+                "type": "Letter"
+              },
+              {
+                "id": "34161",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2000/19963S5,7LBL.PDF",
+                "date": "20000801",
+                "type": "Label"
+              }
+            ]
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "5",
+            "submission_status": "AP",
+            "submission_status_date": "20000801",
+            "review_priority": "UNKNOWN",
+            "submission_class_code": "EFFICACY",
+            "submission_class_code_description": "Efficacy",
+            "application_docs": [
+              {
+                "id": "1869",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/19963S5,7LTR.PDF",
+                "date": "20000801",
+                "type": "Letter"
+              },
+              {
+                "id": "34160",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2000/19963S5,7LBL.PDF",
+                "date": "20000801",
+                "type": "Label"
+              }
+            ]
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "3",
+            "submission_status": "AP",
+            "submission_status_date": "19980220",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "19960809",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "15",
+            "submission_status": "AP",
+            "submission_status_date": "20130108",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "8",
+            "submission_status": "AP",
+            "submission_status_date": "20010320",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "6",
+            "submission_status": "AP",
+            "submission_status_date": "19990125",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "4",
+            "submission_status": "AP",
+            "submission_status_date": "19980723",
+            "review_priority": "STANDARD",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          }
+        ],
+        "application_number": "NDA019963",
+        "sponsor_name": "VALEANT PHARMS NORTH",
+        "products": [
+          {
+            "id":66,
+            "product_number": "001",
+            "reference_drug": "Yes",
+            "brand_name": "RENOVA",
+            "active_ingredients": [
+              {
+                "name": "TRETINOIN",
+                "strength": "0.05%"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "CREAM",
+            "route": "TOPICAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20150723",
+            "review_priority": "STANDARD",
+            "submission_class_code": "UNKNOWN",
+            "application_docs": [
+              {
+                "id": "32604",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/204900Orig1s000ltr.pdf",
+                "date": "20150728",
+                "type": "Letter"
+              }
+            ]
+          }
+        ],
+        "application_number": "ANDA204900",
+        "sponsor_name": "SOVEREIGN PHARMS",
+        "products": [
+          {
+            "id":67,
+            "product_number": "002",
+            "reference_drug": "No",
+            "brand_name": "AMLODIPINE BESYLATE",
+            "active_ingredients": [
+              {
+                "name": "AMLODIPINE BESYLATE",
+                "strength": "EQ 5MG BASE"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          },
+          {
+            "id":68,
+            "product_number": "003",
+            "reference_drug": "No",
+            "brand_name": "AMLODIPINE BESYLATE",
+            "active_ingredients": [
+              {
+                "name": "AMLODIPINE BESYLATE",
+                "strength": "EQ 10MG BASE"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          },
+          {
+            "id":69,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "AMLODIPINE BESYLATE",
+            "active_ingredients": [
+              {
+                "name": "AMLODIPINE BESYLATE",
+                "strength": "EQ 2.5MG BASE"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "TABLET",
+            "route": "ORAL",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "11",
+            "submission_status": "AP",
+            "submission_status_date": "20210924",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "2",
+            "submission_status": "AP",
+            "submission_status_date": "20180801",
+            "review_priority": "STANDARD",
+            "submission_class_code": "LABELING",
+            "submission_class_code_description": "Labeling"
+          },
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20151228",
+            "submission_class_code": "UNKNOWN"
+          }
+        ],
+        "application_number": "ANDA204125",
+        "sponsor_name": "XELLIA PHARMS APS",
+        "openfda": {
+          "application_number": [
+            "ANDA204125"
+          ],
+          "brand_name": [
+            "VANCOMYCIN HYDROCHLORIDE"
+          ],
+          "generic_name": [
+            "VANCOMYCIN HYDROCHLORIDE"
+          ],
+          "manufacturer_name": [
+            "BluePoint Laboratories",
+            "Fresenius Kabi, LLC",
+            "Xellia Pharmaceuticals USA LLC",
+            "Civica, Inc."
+          ],
+          "product_ndc": [
+            "68001-406",
+            "68001-407",
+            "63323-314",
+            "70594-047",
+            "70594-048",
+            "72572-803",
+            "72572-805"
+          ],
+          "product_type": [
+            "HUMAN PRESCRIPTION DRUG"
+          ],
+          "route": [
+            "INTRAVENOUS"
+          ],
+          "substance_name": [
+            "VANCOMYCIN HYDROCHLORIDE"
+          ],
+          "rxcui": [
+            "239209",
+            "313572"
+          ],
+          "spl_id": [
+            "d89c1b15-9c67-010d-e053-2a95a90a6656",
+            "d11a86ee-15b0-49cf-880a-f4b3b70e22cf",
+            "44a2ab85-3ec0-4295-8d5b-a5690499e475",
+            "4d41d3bd-076a-4bf1-826d-53ad7c2e43ff"
+          ],
+          "spl_set_id": [
+            "f28e3c2b-ae31-4c2a-8178-53962b7b213c",
+            "a7e7d990-1d74-459b-ac07-d1c3e13b3204",
+            "552fd7cb-fed0-4b48-89bb-674423a37d77",
+            "be577e5a-4c77-4f4b-bd0e-dfed5975c197"
+          ],
+          "package_ndc": [
+            "68001-407-75",
+            "68001-406-73",
+            "63323-314-68",
+            "70594-048-01",
+            "70594-047-01",
+            "72572-803-01",
+            "72572-805-01"
+          ],
+          "unii": [
+            "71WO621TJD"
+          ]
+        },
+        "products": [
+          {
+            "id":70,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "VANCOMYCIN HYDROCHLORIDE",
+            "active_ingredients": [
+              {
+                "name": "VANCOMYCIN HYDROCHLORIDE",
+                "strength": "EQ 5GM BASE/VIAL"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "INJECTABLE",
+            "route": "INJECTION",
+            "marketing_status": "Prescription",
+            "te_code": "AP"
+          },
+          {
+            "id":71,
+            "product_number": "002",
+            "reference_drug": "No",
+            "brand_name": "VANCOMYCIN HYDROCHLORIDE",
+            "active_ingredients": [
+              {
+                "name": "VANCOMYCIN HYDROCHLORIDE",
+                "strength": "EQ 10GM BASE/VIAL"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "INJECTABLE",
+            "route": "INJECTION",
+            "marketing_status": "Prescription",
+            "te_code": "AP"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20150717",
+            "submission_class_code": "UNKNOWN"
+          }
+        ],
+        "application_number": "ANDA204531",
+        "sponsor_name": "UNIV MICHIGAN",
+        "openfda": {
+          "application_number": [
+            "ANDA204531"
+          ],
+          "brand_name": [
+            "FLUDEOXYGLUCOSE F18"
+          ],
+          "generic_name": [
+            "FLUDEOXYGLUCOSE F18"
+          ],
+          "manufacturer_name": [
+            "The Regents of the University of Michigan"
+          ],
+          "product_ndc": [
+            "76326-001"
+          ],
+          "product_type": [
+            "HUMAN PRESCRIPTION DRUG"
+          ],
+          "route": [
+            "INTRAVENOUS"
+          ],
+          "substance_name": [
+            "FLUDEOXYGLUCOSE F-18"
+          ],
+          "spl_id": [
+            "21e04b5e-3205-4292-84f8-aa1f3dad781c"
+          ],
+          "spl_set_id": [
+            "35bfa064-4313-49e2-98d2-85a84d2c40a4"
+          ],
+          "package_ndc": [
+            "76326-001-20"
+          ],
+          "nui": [
+            "N0000177914",
+            "N0000000205"
+          ],
+          "pharm_class_epc": [
+            "Radioactive Diagnostic Agent [EPC]"
+          ],
+          "pharm_class_moa": [
+            "Radiopharmaceutical Activity [MoA]"
+          ],
+          "unii": [
+            "0Z5B2CJX4D"
+          ]
+        },
+        "products": [
+          {
+            "id":72,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "FLUDEOXYGLUCOSE F18",
+            "active_ingredients": [
+              {
+                "name": "FLUDEOXYGLUCOSE F-18",
+                "strength": "20-300mCi/ML"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "INJECTABLE",
+            "route": "INTRAVENOUS",
+            "marketing_status": "Prescription",
+            "te_code": "AP"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20161027",
+            "review_priority": "STANDARD",
+            "submission_class_code": "UNKNOWN"
+          }
+        ],
+        "application_number": "ANDA205354",
+        "sponsor_name": "MONTEREY PHARMS LLC",
+        "products": [
+          {
+            "id":73,
+            "product_number": "001",
+            "reference_drug": "No",
+            "brand_name": "METHOCARBAMOL",
+            "active_ingredients": [
+              {
+                "name": "METHOCARBAMOL",
+                "strength": "1GM/10ML (100MG/ML)"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "SOLUTION",
+            "route": "IM-IV",
+            "marketing_status": "Prescription",
+            "te_code": "AP"
+          }
+        ]
+      },
+      {
+        "submissions": [
+          {
+            "submission_type": "ORIG",
+            "submission_number": "1",
+            "submission_status": "AP",
+            "submission_status_date": "20140403",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "TYPE 3/4",
+            "submission_class_code_description": "Type 3 - New Dosage Form and Type 4 - New Combination",
+            "application_docs": [
+              {
+                "id": "19685",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/205787Orig1s000lbl.pdf",
+                "date": "20140403",
+                "type": "Label"
+              },
+              {
+                "id": "23003",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/205787Orig1s000TOC.cfm",
+                "date": "20141218",
+                "type": "Review"
+              },
+              {
+                "id": "24505",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/205787Orig1s000SumR.pdf",
+                "date": "20140403",
+                "type": "Summary Review"
+              },
+              {
+                "id": "32727",
+                "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/205787Orig1s000ltr.pdf",
+                "date": "20140403",
+                "type": "Letter"
+              }
+            ]
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "6",
+            "submission_status": "AP",
+            "submission_status_date": "20160623",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "2",
+            "submission_status": "AP",
+            "submission_status_date": "20150511",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          },
+          {
+            "submission_type": "SUPPL",
+            "submission_number": "3",
+            "submission_status": "AP",
+            "submission_status_date": "20160606",
+            "review_priority": "PRIORITY",
+            "submission_class_code": "MANUF (CMC)",
+            "submission_class_code_description": "Manufacturing (CMC)"
+          }
+        ],
+        "application_number": "NDA205787",
+        "sponsor_name": "KALEO INC",
+        "products": [
+          {
+            "id":74,
+            "product_number": "001",
+            "reference_drug": "Yes",
+            "brand_name": "EVZIO",
+            "active_ingredients": [
+              {
+                "name": "NALOXONE HYDROCHLORIDE",
+                "strength": "0.4MG/0.4ML (0.4MG/0.4ML)"
+              }
+            ],
+            "reference_standard": "No",
+            "dosage_form": "SOLUTION",
+            "route": "INTRAMUSCULAR, SUBCUTANEOUS",
+            "marketing_status": "Discontinued"
+          }
+        ]
+      }
+    ]
+  }
