@@ -1,5 +1,5 @@
 import logo from "./logo.svg";
-import React, {useEffect} from "react";
+import React, {useEffect,useRef, useState} from "react";
 import "./App.css";
 import {
   Route,
@@ -51,21 +51,43 @@ import Footer from "./views/basic/Footer";
 import DispatchView from "./components/HealthWorker/DispatchView";
 import {useSelector} from 'react-redux'
 
+
 function App() {
   const dispatch = useDispatch();
+
+  // const alanBtnContainer = useRef();
+  const [appDes, setAppDes] = useState('');
+  const [appDate, setAppDate] = useState('');
+  const [sosDes, setSosDes] = useState('');
+  const [sosType, setSosType] = useState('');
+
+  // useEffect(() => {
+  //   alanBtn({
+  //     key: '959794f6683b755cdafbf2ac0e7b47192e956eca572e1d8b807a3e2338fdd0dc/stage',
+  //     rootEl: alanBtnContainer.current,
+  //     onCommand: (commandData) => {
+  //       console.log(commandData);
+  //       if (commandData.command === 'APPO_DES') {
+  //         setAppDes(commandData.description);
+  //         navigate('/book_appointment')
+  //         alert('do not forget to submit')
+  //       }
+  //     }
+  //   });
+  // }, []);
  
   return (
     <div className="App">
       <Router>
         <NotificationContainer />
-        <Navbar />
+        <Navbar appDes={appDes} appDate={appDate} sosDes={sosDes} sosType={sosType} setAppDes={setAppDes} setAppDate={setAppDate} setSosDes={setSosDes} setSosType={setSosType}/>
         <Routes>
           <Route path="/" element={<LandingPage />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/login" element={<SuperLogin />} />
           <Route path="/register" element={<Register />} />
           <Route path="/dashboard" element={<Dashboard />} />
-          <Route path="/book_appointment" element={<BookAppointment />} />
+          <Route path="/book_appointment" element={<BookAppointment appDes={appDes} appDate={appDate}/>} />
           <Route path="/create_sos" element={<CreateSos />} />
          
           <Route path="/medicines" element={<Medicine />} />

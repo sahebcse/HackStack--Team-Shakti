@@ -4,10 +4,10 @@ import { createEmergency } from '../../api'
 import MapGeolocation from '../Map/MapGeolocation'
 import MapMarker from '../Map/MapMarker'
 
-export default function CreateSos() {
-    const [description, setDescription]=useState('')
+export default function CreateSos({sosDes, sosType}) {
+    const [description, setDescription]=useState(sosDes?sosDes:'')
     const [date, setDate]=useState('')
-    const [typeOfEmergency, setTypeOfEmergency]=useState('heart attack')
+    const [typeOfEmergency, setTypeOfEmergency]=useState(sosType?sosType:'heart attack')
     const [mapState, setMapState]=useState({latitude: 0, longitude: 0, zoom: 14})
     const [coordinates, setCoordinates]=useState({latitude: 0, longitude: 0})
     const patient=JSON.parse(localStorage.getItem('profile'))
@@ -76,6 +76,7 @@ export default function CreateSos() {
             <textarea onChange={handleDescriptionChange} 
                 className='appearance-none placeholder:text-slate-400 placeholder:italic placeholder:text-xl mt-5 border-2 border-red-700 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-red-500'
                 rows={10}
+                value={description}
                 placeholder="Describe the reason for slot booking"
             />
 

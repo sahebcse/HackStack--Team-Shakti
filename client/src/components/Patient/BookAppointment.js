@@ -4,13 +4,15 @@ import { bookAppointment } from '../../api'
 import MapGeolocation from '../Map/MapGeolocation'
 import MapMarker from '../Map/MapMarker'
 
-export default function BookAppointment() {
-    const [description, setDescription]=useState('')
-    const [date, setDate]=useState('')
+export default function BookAppointment({appDes, appDate}) {
+    const [description, setDescription]=useState(appDes?appDes:'')
+    const [date, setDate]=useState(appDate?appDate:'')
     const [coordinates, setCoordinates]=useState({latitude: 0, longitude: 0})
     const [mapState, setMapState]=useState({latitude: 0, longitude: 0, zoom: 14})
     const patient=JSON.parse(localStorage.getItem('profile'))
     const navigate=useNavigate()
+
+    console.log("voice cont", appDes, appDate)
 
     const handleDescriptionChange=(e)=>
     {
@@ -70,12 +72,14 @@ export default function BookAppointment() {
                 className='appearance-none placeholder:text-slate-400 placeholder:italic placeholder:text-xl mt-5 border-2 border-blue-700 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-green-500'
                 rows={10}
                 placeholder="Describe the reason for slot booking"
+                value={description}
             />
 
             <h2 className='text-3xl font-semibold mt-1'>Date of appointment</h2>
             <div className="mt-1 relative rounded-md shadow-sm">
                                     <input onChange={handleDate}
                                     type="date"
+                                    value={date}
                                     className="appearance-none border-2 border-blue-700 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-green-500 mt-1"
                                     placeholder="DD/MM/YYYY"
                                     />

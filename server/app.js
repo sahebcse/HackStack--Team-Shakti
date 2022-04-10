@@ -7,8 +7,8 @@ const mongoose=require('mongoose')
 
 const app=express()
 
-const CONNECTION_URL= "http://localhost:3000"
-const MONGODB_URL='mongodb://localhost/hillyhealth69'
+const CONNECTION_URL= "https://sugam01.netlify.app/"
+const MONGODB_URL="mongodb+srv://book:12345@cluster0.zastp.mongodb.net/sugam?retryWrites=true&w=majority"
 const PORT=process.env.PORT||5000
 
 app.use(express.json({ limit: "30mb", extended: true }));

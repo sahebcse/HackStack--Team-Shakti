@@ -1,6 +1,6 @@
 
 import { useSelector } from "react-redux";
-import React, { useState } from "react";
+import React, { useState , useEffect, useRef } from "react";
 import { Link, Navigate } from "react-router-dom";
 import styled from "styled-components";
 import { useNavigate } from "react-router-dom";
@@ -9,8 +9,9 @@ import { FaTimes, FaBars } from "react-icons/fa";
 // import logo from '../../assets/vinayak.png'
 // import * as ROUTES from '../../constants/routes'
 import logo from "../../images/text_clear.png";
+import alanBtn from "@alan-ai/alan-sdk-web";
 
-export default function Navbar() {
+export default function Navbar({appDes, appDate, sosDes, sosType, setAppDes, setAppDate, setSosType, setSosDes}) {
   const navigate = useNavigate();
 
   const user = JSON.parse(localStorage.getItem("profile"));
@@ -18,6 +19,51 @@ export default function Navbar() {
   const account = useSelector((state) => state.Auth);
 
   const [click, setClick] = useState(false);
+
+  const alanBtnContainer = useRef();
+
+  useEffect(() => {
+    try {
+      alanBtn({
+        key: '959794f6683b755cdafbf2ac0e7b47192e956eca572e1d8b807a3e2338fdd0dc/stage',
+        rootEl: alanBtnContainer.current,
+        onCommand: (commandData) => {
+          console.log(commandData);
+          if (commandData.command === 'APPO_DES') {
+            setAppDes(commandData.description);
+            navigate('/book_appointment')
+          }
+          else if (commandData.command === 'APPO_DES_DATE') {
+            setAppDes(commandData.description);
+            setAppDate(commandData.date);
+            navigate('/book_appointment')
+          }
+          else if (commandData.command === 'SOS_DES') {
+            setSosDes(commandData.description);
+            navigate('/create_sos')
+          }
+          else if (commandData.command == 'SOS_TYPE') {
+            console.log('create sos')
+            setSosDes(commandData.description);
+            setSosType(commandData.reason);
+            navigate('/create_sos')
+          }
+          else if (commandData.command === 'GET_PRES') {
+            navigate('/order_prescription')
+          }
+          else if (commandData.command === 'GO_BACK') {
+            navigate(-1)
+          }
+          else if (commandData.command === 'SEARCH_MEDICINE') {
+            navigate('/medicines')
+          }
+        }
+      });
+      
+    } catch (error) {
+      console.log(error)
+    }
+  }, []);
 
   const handleClick = () => {
     setClick(!click);
@@ -75,6 +121,7 @@ export default function Navbar() {
           </NavMenu>
         </NavBarContainer>
       </Nav>
+      <div ref={alanBtnContainer}></div>
     </React.Fragment>
   );
 }

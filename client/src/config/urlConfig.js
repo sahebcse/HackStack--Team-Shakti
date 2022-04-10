@@ -1,6 +1,6 @@
 
 const prod = {
-    url:'https://localhost:5000'
+    url:'https://sugam-serv.herokuapp.com/'
 }
 
 const dev = {
